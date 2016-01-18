@@ -36,6 +36,6 @@ Installation
 Usage
 -
 
-You must be identified as an oper with SAMOVE command privileges to use this. The following command would part \<user> from \<channel1> and join them into \<channel2>. \<user> will also receive a notice upon being moved with the optional argument [reason].
+You must be identified as an oper with SAMOVE command privileges to use this. The following command would part \<nick> from \<channel1> and join them into \<channel2>. \<nick> will also receive a notice upon being moved with the optional argument [reason].
 
     /SAMOVE <nick> <channel1> <channel2> [reason]
